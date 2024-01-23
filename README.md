@@ -1,38 +1,38 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center">Landing Page e sistema 2Dash</h1>
+<p align="center">Este projeto foi uma landing page de alta conversão e o sistema 2dash.</p> <br />
 
-## Getting Started
+### 🔗 Links:
+<a href="https://github.com/LucasTKP/2Dash">Projeto 2Dash</a></br>
+<a href="https://www.2docs.app/">Deploy</a></br>
 
-First, run the development server:
+</br>
+</br>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+### 💻 Projeto:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Este projeto consiste em uma landing page apresentando um Saas e um dashboard de administradores onde o usuário consegue comprar um plano desse Saas, alterar adminstradores, cadastras funcionários e até mesmo cancelar o plano.
+ 
+<br /> <br />
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### 🎯 Objetivo:
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+Criar um site de alta conversão para um Sass e fazer o sistema para o administrador.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+<br /> <br />
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+### ⚙️ Tecnologias:
 
-## Learn More
+- Next
+- Tailwind
+- Firebase
+- Gateway de pagamento Stripe
+- Nodemailer
+- GitHub
 
-To learn more about Next.js, take a look at the following resources:
+  <br /> <br />
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### 📷 Tela principal:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+https://github.com/LucasTKP/2Dash/assets/101598532/855ab567-b51f-4c9f-96ad-c6d230639f38
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<br />
