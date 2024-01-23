@@ -1,4 +1,4 @@
-<h1 align="center">Landing Page e sistema 2Dash</h1>
+<h1 align="center">Landing Page e o Sistema 2Dash</h1>
 <p align="center">Este projeto foi uma landing page de alta conversão e o sistema 2dash.</p> <br />
 
 ### 🔗 Links:
